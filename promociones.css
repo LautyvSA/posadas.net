@@ -15,20 +15,20 @@
     margin-top: 80px;
 }
 .card{
-    background:#000000;
+    background:#fff;
     width: 370px;
-    height: 340px;
+    height: 440px;
     margin: 40px;
     border-radius:15px;
-    color:#3464da;
+    color:#af34da;
 }
 .card-title{
     background: var(--button-main-color);
     color: var(--main-text-color);
-    width: 260px;
+    width: 320px;
     margin: 20px auto;
     border-radius: 15px;
-   
+    text-align: center;
 }
 .card-image{
     height: 300px;
@@ -52,5 +52,13 @@
     color:var(--main-text-color);
     transition: .4s;
     cursor: pointer;
-    align-content: center;
+}
+.card1{
+    background-image: url(/multimedia/non.jpg);
+}
+.card2{
+    background-image: url(/multimedia/non2.jpg);
+}
+.card3{
+    background-image: url(/multimedia/non3.jpg);
 }
