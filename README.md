@@ -1,2 +1,2 @@
 # posadas.net
-EMPRESA SIMULADA - Distribuidora de servicios de internet 
+EMPRESA SIMULADA - https://lautyvsa.github.io/posadas.net/
