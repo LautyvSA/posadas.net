@@ -1,5 +1,6 @@
 
-(https://github.com/LautyvSA/posadas.net.git)
+github.com/LautyvSA/posdasnet
+
 
 Empresa Simulada - 
 
